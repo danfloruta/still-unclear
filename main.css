@@ -8,7 +8,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background: rgba(144, 238, 144, 0.383);
+  background: rgba(50, 63, 50, 0.383);
 }
 a {
   text-decoration: none;
